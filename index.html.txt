@@ -2,51 +2,13 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Instituto Xamânico Cabocla Jurema</title>
+    <title>Meu Primeiro Site</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <h1>Bem-vindo ao meu site</h1>
+    <p>Esse é meu primeiro site feito do zero.</p>
 
-<header>
-    <h1>Instituto Xamânico Cabocla Jurema</h1>
-    <p>Espiritualidade ancestral • Cura • Caminho da natureza</p>
-</header>
-
-<section class="sobre">
-    <h2>Quem Somos</h2>
-    <p>
-        Somos um grupo xamânico dedicado ao caminho da cura espiritual,
-        da ancestralidade e da conexão com a Mãe Terra.
-        Caminhamos guiados pela força da Cabocla Jurema,
-        honrando os saberes antigos e o sagrado da natureza.
-    </p>
-</section>
-
-<section class="trabalhos">
-    <h2>Nossos Trabalhos</h2>
-    <ul>
-        <li>🌿 Rituais e cerimônias ancestrais</li>
-        <li>🔥 Cura espiritual e energética</li>
-        <li>🌙 Caminhadas xamânicas e estudos</li>
-        <li>✨ Consagrações e vivências espirituais</li>
-    </ul>
-</section>
-
-<section class="contato">
-    <h2>Contato</h2>
-    <p>
-        Entre em contato para saber mais sobre nossos encontros
-        e cerimônias espirituais.
-    </p>
-
-    <a href="https://wa.me/5500000000000" target="_blank" class="botao">
-        Falar no WhatsApp
-    </a>
-</section>
-
-<footer>
-    <p>© 2026 • Instituto Xamânico Cabocla Jurema</p>
-</footer>
-
+    <button>Clique aqui</button>
 </body>
 </html>
